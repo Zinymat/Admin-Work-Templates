@@ -29,7 +29,7 @@ I have created a repository of **Admin-Work-Templates** to demonstrate my techni
 **Remote Team Tracker:** Meeting and action item management for distributed teams.
 
 📫 Connect with Me
-LinkedIn: [Your Profile](https://www.linkedin.com/in/stephanie-aroh-74a13a13b/)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/stephanie-aroh-74a13a13b/)
 
 
 Email: zinymat@gmail.com
